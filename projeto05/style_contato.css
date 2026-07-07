@@ -1,0 +1,18 @@
+form{
+margin: auto 15rem auto 22rem;
+width: 800px;
+}
+
+fieldset{
+border: 2px solid white;
+margin: 20px;
+}
+
+legend{
+color: rgb(173, 112, 231);
+font: 1rem verdano;
+font-weight: 700;
+
+
+
+}
